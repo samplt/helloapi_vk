@@ -17,6 +17,8 @@ print(data)
 
 
 #group_session = vk.Session(access_token=group_token)
+#group_session = vk.Session(access_token=group_token)
+#group_session = vk.Session(access_token=group_token)
 #apivk = vk.API(group_session)
 #wallposts = apivk.wall.get(group_id=-4816492, v=5.81)
 #print(wallposts)
